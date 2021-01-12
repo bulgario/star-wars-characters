@@ -1,6 +1,6 @@
 ## Start
 
-Clone esse repositório então instale suas dependencias usando:
+Clone esse repositório então instale suas dependencias usando e QUE A FORÇA ESTEJA COM VOCES:
 
 ```bash
 $ npm install
